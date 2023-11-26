@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React, Express.js<br>🤝 I’m looking for help with internship<br>🌱 I’m currently learning Next.js<br>⚡ Discipline and Patience
+⚡ Discipline and Patience
 
 
 ## 🌐 Socials:
